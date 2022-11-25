@@ -23,7 +23,6 @@ xmlreq.onreadystatechange=function() {
 }
 }
 
-// Movies from the location 
 
 function update(){
 
